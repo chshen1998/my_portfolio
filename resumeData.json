@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name": "Chew Hoa Shen",
+    "occupation": "Software Developer",
+    "description": "studying at National University of Singapore",
+    "image": "profilepic.jpg",
+    "bio": "I am a year 2 computer science undergraduate at National University of Singapore, passionate about building software that can help others.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "chewhoashen@gmail.com",
+    "phone": "(+65) 81982565",
+    "address": {
+      "city": "Singapore"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1_kF1Cl3IxJyZ1KktvSgVkHRKS-NN3dND/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/hoa-shen-chew-723aa5178/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/chshen1998",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "National University of Singapore",
+        "degree": "Bachelors of Computer Science",
+        "graduated": "Aug 2019 - Present",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "8x8",
+        "title": "Software Engineer Intern",
+        "years": "May 2021 - Present",
+        "description": "Designed and built a java library to be used by clients, practicing test-driven development, SOLID principles and continous integration to write scalable and maintainable code."
+      },
+      {
+        "company": "LETS DUTCH",
+        "title": "Frontend Developer Intern",
+        "years": "Dec 2020 - Jan 2021",
+        "description": "Developed and delivered new features for the company's mobile application, leading up to its launch date. Participated in weekly scrum meetings and sprint review meetings."
+      },
+      {
+        "company": "Wavecell",
+        "title": "Digital Marketing Intern",
+        "years": "Feb 2019 - Jun 2019",
+        "description": "Created and launched new campaigns as well as performed analysis and optimization of ongoing online campaigns for lead generation and brand awareness. Performed content marketing through blogs/articles and social media management"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Deals Together",
+        "category": "A social platform that allows users to track the price of item listings on Amazon.sg, view their friends' watchlists and send/receive recommendations to/from friends. Built on React, Django and Postgresql.",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Interview Manager",
+        "category": "A web application built for job seekers to help them keep track of their job applications and interviews. It is a simple CRUD app that allows users to add or delete applications from their watchlist as well as update the status of their applications and interviews. Built on React and Django.",
+        "image": "InterviewManagerSS.png",
+        "url": "https://github.com/chshen1998/InterviewManagerBackend"
+      },
+      {
+        "title": "Archangel",
+        "category": "A desktop application built for clinicians to help them manage their appointment schedule. Users can create patients and assign patients to appointments and are provided with the ability to edit and filter patient and appointment records in various ways. Built on Java and JavaFX.",
+        "image": "ArchangelSS.png",
+        "url": "https://github.com/AY2021S1-CS2103T-W11-1/tp"
+      },
+      {
+        "title": "iFinance",
+        "category": "A mobile application built to help users keep account of their daily expenditure. Users can set daily budgets and view their expenditure over periods of time. Built on React and Firebase.",
+        "image": "iFinanceSS.png",
+        "url": "https://github.com/chshen1998/iFinance-Reactjs"
+      },
+      {
+        "title": "Duke Chatbot",
+        "category": "A desktop application built to help users keep track of their tasks. Users can create todo tasks, deadlines, events and weekly recurring tasks. Filtering features are also provided to help users better manage their tasks. Built on Java and JavaFX.",
+        "image": "DukeSS.png",
+        "url": "https://github.com/chshen1998/duke-chatbot"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
